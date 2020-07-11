@@ -1,2 +1,3 @@
 hello word！！！
-wordcount！！！
+wordcount!!!
+do you kown!!!
